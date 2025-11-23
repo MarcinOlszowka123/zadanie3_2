@@ -16,7 +16,7 @@ public class Main {
         sb.append(ch);
 
     }
-    System.out.println("Tekst po zamianie:");
+    System.out.println("Tekst po zamianie:  ");
     System.out.println(sb.toString());
     sc.close();
   }
